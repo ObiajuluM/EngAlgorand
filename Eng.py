@@ -1,8 +1,14 @@
 from typing import Union
+
 from algosdk.future import transaction
-from algosdk.future.transaction import AssetCloseOutTxn, AssetConfigTxn, AssetDestroyTxn, AssetFreezeTxn, AssetOptInTxn, AssetTransferTxn, AssetUpdateTxn, PaymentTxn
-from Misc import meta_hash_text
+from algosdk.future.transaction import (AssetCloseOutTxn, AssetConfigTxn,
+                                        AssetDestroyTxn, AssetFreezeTxn,
+                                        AssetOptInTxn, AssetTransferTxn,
+                                        AssetUpdateTxn, PaymentTxn)
 from algosdk.v2client.algod import AlgodClient
+
+from Misc import meta_hash_text
+
 
 class Eng(AlgodClient):
     def __init__(self, algod_token: str, algod_url: str, txns_fee: int,
@@ -43,6 +49,21 @@ class Eng(AlgodClient):
         self.params.fee = new_fee
         return True
     
+    def merge_account(self):
+        pass
+
+    def delete_account(self):
+        pass
+
+    def rekey_account(self):
+        pass
+
+    def create_multi_sig_account(self):
+        pass
+
+    def sig_multi_sig_account_txn(self):
+        pass
+
     def opt_in(self, sender_addr: str, sender_key: str, asset_id: int, note: str) -> dict:
         """enable transacting with an asset"""
         account_info = self.algod_client.account_info(sender_addr)
