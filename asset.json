@@ -1,0 +1,338 @@
+{
+  "asset": {
+    "created-at-round": 7879744,
+    "deleted": false,
+    "index": 10458941,
+    "params": {
+      "clawback": "XM2W7VZODABS6RAL3FENBRKCOF6XLOQZZWIVVZTBYCVH2ADRYKN53CQLXM",
+      "creator": "VETIGP3I6RCUVLVYNDW5UA2OJMXB5WP6L6HJ3RWO2R37GP4AVETICXC55I",
+      "decimals": 6,
+      "default-frozen": false,
+      "freeze": "JTDZXA72SNBU5JCFO6MI5LITSR7YDBLQI2K5LERAIIYSG4P7GZRS6ZLTJE",
+      "manager": "6FLEYABEB3G7ZKHL4NBCXHMMXVTEITBXI4AU3CMVXKJVEBKRRKOEY5UQEI",
+      "name": "USDC",
+      "name-b64": "VVNEQw==",
+      "reserve": "UJBZPEMXLD6KZOLUBUDSZ3DXECXYDADZZLBH6O7CMYXHE2PLTCW44VK5T4",
+      "total": 18446744073709551615,
+      "unit-name": "USDC",
+      "unit-name-b64": "VVNEQw==",
+      "url": "https://centre.io",
+      "url-b64": "aHR0cHM6Ly9jZW50cmUuaW8="
+    }
+  },
+  "current-round": 21219098
+}
+{
+  "asset": {
+    "created-at-round": 14544742,
+    "deleted": false,
+    "index": 16010077,
+    "params": {
+      "clawback": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "creator": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "decimals": 19,
+      "default-frozen": false,
+      "freeze": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "manager": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "name": "vscoded",
+      "name-b64": "dnNjb2RlZA==",
+      "reserve": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "total": 1000000000000000000,
+      "unit-name": "vscoded",
+      "unit-name-b64": "dnNjb2RlZA==",
+      "url": "url",
+      "url-b64": "dXJs"
+    }
+  },
+  "current-round": 21219098
+}
+{
+  "asset": {
+    "created-at-round": 14511476,
+    "deleted": false,
+    "index": 16001043,
+    "params": {
+      "clawback": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "creator": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "decimals": 2,
+      "default-frozen": false,
+      "freeze": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "manager": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "name": "United States Dollar",
+      "name-b64": "VW5pdGVkIFN0YXRlcyBEb2xsYXI=",
+      "reserve": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "total": 1000000,
+      "unit-name": "USD",
+      "unit-name-b64": "VVNE",
+      "url": "url",
+      "url-b64": "dXJs"
+    }
+  },
+  "current-round": 21219098
+}
+{
+  "asset": {
+    "created-at-round": 14544509,
+    "deleted": false,
+    "index": 16010043,
+    "params": {
+      "clawback": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "creator": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "decimals": 5,
+      "default-frozen": false,
+      "freeze": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "manager": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "name": "vscode",
+      "name-b64": "dnNjb2Rl",
+      "reserve": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "total": 1000,
+      "unit-name": "vscode",
+      "unit-name-b64": "dnNjb2Rl",
+      "url": "url",
+      "url-b64": "dXJs"
+    }
+  },
+  "current-round": 21219098
+}
+{
+  "asset": {
+    "created-at-round": 14544787,
+    "deleted": false,
+    "index": 16010087,
+    "params": {
+      "clawback": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "creator": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "decimals": 19,
+      "default-frozen": false,
+      "freeze": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "manager": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "name": "vscoded",
+      "name-b64": "dnNjb2RlZA==",
+      "reserve": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "total": 18000000000000000000,
+      "unit-name": "vscoded",
+      "unit-name-b64": "dnNjb2RlZA==",
+      "url": "url",
+      "url-b64": "dXJs"
+    }
+  },
+  "current-round": 21219098
+}
+{
+  "asset": {
+    "created-at-round": 14891574,
+    "deleted": false,
+    "index": 17026402,
+    "params": {
+      "clawback": "USF4S3MEMHNTOV3WAFSIC7PZNYTYCMNHYCDDXTI2HFBE3VLTX2WLZMI3FY",
+      "creator": "USF4S3MEMHNTOV3WAFSIC7PZNYTYCMNHYCDDXTI2HFBE3VLTX2WLZMI3FY",
+      "decimals": 0,
+      "default-frozen": true,
+      "freeze": "USF4S3MEMHNTOV3WAFSIC7PZNYTYCMNHYCDDXTI2HFBE3VLTX2WLZMI3FY",
+      "manager": "USF4S3MEMHNTOV3WAFSIC7PZNYTYCMNHYCDDXTI2HFBE3VLTX2WLZMI3FY",
+      "name": "Most Admired Company",
+      "name-b64": "TW9zdCBBZG1pcmVkIENvbXBhbnk=",
+      "reserve": "USF4S3MEMHNTOV3WAFSIC7PZNYTYCMNHYCDDXTI2HFBE3VLTX2WLZMI3FY",
+      "total": 1,
+      "unit-name": "MAC",
+      "unit-name-b64": "TUFD"
+    }
+  },
+  "current-round": 21219099
+}
+{
+  "asset": {
+    "created-at-round": 14544662,
+    "deleted": false,
+    "index": 16010057,
+    "params": {
+      "clawback": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "creator": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "decimals": 10,
+      "default-frozen": false,
+      "freeze": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "manager": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "name": "vscoded",
+      "name-b64": "dnNjb2RlZA==",
+      "reserve": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "total": 17777779,
+      "unit-name": "vscoded",
+      "unit-name-b64": "dnNjb2RlZA==",
+      "url": "url",
+      "url-b64": "dXJs"
+    }
+  },
+  "current-round": 21219099
+}
+{
+  "asset": {
+    "created-at-round": 14511456,
+    "deleted": false,
+    "index": 16001041,
+    "params": {
+      "clawback": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "creator": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "decimals": 2,
+      "default-frozen": false,
+      "freeze": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "manager": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "name": "Nigerian Naira",
+      "name-b64": "TmlnZXJpYW4gTmFpcmE=",
+      "reserve": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "total": 1000000,
+      "unit-name": "NGN",
+      "unit-name-b64": "TkdO",
+      "url": "url",
+      "url-b64": "dXJs"
+    }
+  },
+  "current-round": 21219099
+}
+{
+  "asset": {
+    "created-at-round": 14544659,
+    "deleted": false,
+    "index": 16010056,
+    "params": {
+      "clawback": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "creator": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "decimals": 10,
+      "default-frozen": false,
+      "freeze": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "manager": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "name": "vscoded",
+      "name-b64": "dnNjb2RlZA==",
+      "reserve": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "total": 17777779,
+      "unit-name": "vscoded",
+      "unit-name-b64": "dnNjb2RlZA==",
+      "url": "url",
+      "url-b64": "dXJs"
+    }
+  },
+  "current-round": 21219099
+}
+{
+  "asset": {
+    "created-at-round": 14544756,
+    "deleted": false,
+    "index": 16010085,
+    "params": {
+      "clawback": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "creator": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "decimals": 19,
+      "default-frozen": false,
+      "freeze": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "manager": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "name": "vscoded",
+      "name-b64": "dnNjb2RlZA==",
+      "reserve": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "total": 10000000000000000000,
+      "unit-name": "vscoded",
+      "unit-name-b64": "dnNjb2RlZA==",
+      "url": "url",
+      "url-b64": "dXJs"
+    }
+  },
+  "current-round": 21219099
+}
+{
+  "message": "no assets found for asset-id: 17063481"
+}
+{
+  "asset": {
+    "created-at-round": 14555598,
+    "deleted": false,
+    "index": 16016011,
+    "params": {
+      "clawback": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "creator": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "decimals": 8,
+      "default-frozen": false,
+      "freeze": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "manager": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "name": "tUniswap",
+      "name-b64": "dFVuaXN3YXA=",
+      "reserve": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "total": 100000000000000000,
+      "unit-name": "tUNI",
+      "unit-name-b64": "dFVOSQ==",
+      "url": "url",
+      "url-b64": "dXJs"
+    }
+  },
+  "current-round": 21219099
+}
+{
+  "asset": {
+    "created-at-round": 14544624,
+    "deleted": false,
+    "index": 16010050,
+    "params": {
+      "clawback": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "creator": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "decimals": 5,
+      "default-frozen": false,
+      "freeze": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "manager": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "name": "vscod",
+      "name-b64": "dnNjb2Q=",
+      "reserve": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "total": 17777779,
+      "unit-name": "vscod",
+      "unit-name-b64": "dnNjb2Q=",
+      "url": "url",
+      "url-b64": "dXJs"
+    }
+  },
+  "current-round": 21219099
+}
+{
+  "asset": {
+    "created-at-round": 14544619,
+    "deleted": false,
+    "index": 16010049,
+    "params": {
+      "clawback": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "creator": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "decimals": 5,
+      "default-frozen": false,
+      "freeze": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "manager": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "name": "vscode",
+      "name-b64": "dnNjb2Rl",
+      "reserve": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "total": 177221,
+      "unit-name": "vscode",
+      "unit-name-b64": "dnNjb2Rl",
+      "url": "url",
+      "url-b64": "dXJs"
+    }
+  },
+  "current-round": 21219100
+}
+{
+  "asset": {
+    "created-at-round": 21214693,
+    "deleted": false,
+    "index": 86121492,
+    "params": {
+      "clawback": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAY5HFKQ",
+      "creator": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+      "decimals": 2,
+      "default-frozen": false,
+      "freeze": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAY5HFKQ",
+      "manager": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAY5HFKQ",
+      "metadata-hash": "qPzwr+xaAQYacTqD0bKn3P0ag+mZ2mmsKhbhntlS5Dc=",
+      "name": "efeefwee",
+      "name-b64": "ZWZlZWZ3ZWU=",
+      "reserve": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAY5HFKQ",
+      "total": 111,
+      "unit-name": "effg",
+      "unit-name-b64": "ZWZmZw==",
+      "url": "aa.com",
+      "url-b64": "YWEuY29t"
+    }
+  },
+  "current-round": 21219100
+}

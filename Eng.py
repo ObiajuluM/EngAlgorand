@@ -9,6 +9,8 @@ from algosdk.v2client.algod import AlgodClient
 
 from Misc import meta_hash_text
 
+# Add a manager to the create asset methods, to enable asset deletion
+
 
 class Eng(AlgodClient):
     def __init__(self, algod_token: str, algod_url: str, txns_fee: int,
@@ -61,7 +63,7 @@ class Eng(AlgodClient):
     def create_multi_sig_account(self):
         pass
 
-    def sig_multi_sig_account_txn(self):
+    def sign_multi_sig_account_txn(self):
         pass
 
     def opt_in(self, sender_addr: str, sender_key: str, asset_id: int, note: str) -> dict:

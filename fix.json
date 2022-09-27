@@ -1,0 +1,378 @@
+{
+  "account": {
+    "address": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+    "amount": 60361914,
+    "amount-without-pending-rewards": 60361914,
+    "assets": [
+      {
+        "amount": 0,
+        "asset-id": 10458941,
+        "deleted": false,
+        "is-frozen": false,
+        "opted-in-at-round": 14896796
+      },
+      {
+        "amount": 1000000000000000000,
+        "asset-id": 16010077,
+        "deleted": false,
+        "is-frozen": false,
+        "opted-in-at-round": 14544742
+      },
+      {
+        "amount": 2000,
+        "asset-id": 16001043,
+        "deleted": false,
+        "is-frozen": false,
+        "opted-in-at-round": 14511476
+      },
+      {
+        "amount": 1000,
+        "asset-id": 16010043,
+        "deleted": false,
+        "is-frozen": false,
+        "opted-in-at-round": 14544509
+      },
+      {
+        "amount": 18000000000000000000,
+        "asset-id": 16010087,
+        "deleted": false,
+        "is-frozen": false,
+        "opted-in-at-round": 14544787
+      },
+      {
+        "amount": 0,
+        "asset-id": 17026402,
+        "deleted": false,
+        "is-frozen": true,
+        "opted-in-at-round": 14971756
+      },
+      {
+        "amount": 17777779,
+        "asset-id": 16010057,
+        "deleted": false,
+        "is-frozen": false,
+        "opted-in-at-round": 14544662
+      },
+      {
+        "amount": 0,
+        "asset-id": 16001041,
+        "deleted": false,
+        "is-frozen": false,
+        "opted-in-at-round": 14511456
+      },
+      {
+        "amount": 17777779,
+        "asset-id": 16010056,
+        "deleted": false,
+        "is-frozen": false,
+        "opted-in-at-round": 14544659
+      },
+      {
+        "amount": 10000000000000000000,
+        "asset-id": 16010085,
+        "deleted": false,
+        "is-frozen": false,
+        "opted-in-at-round": 14544756
+      },
+      {
+        "amount": 0,
+        "asset-id": 17063481,
+        "deleted": false,
+        "is-frozen": false,
+        "opted-in-at-round": 14900204
+      },
+      {
+        "amount": 100000000000000000,
+        "asset-id": 16016011,
+        "deleted": false,
+        "is-frozen": false,
+        "opted-in-at-round": 14555598
+      },
+      {
+        "amount": 17777779,
+        "asset-id": 16010050,
+        "deleted": false,
+        "is-frozen": false,
+        "opted-in-at-round": 14544624
+      },
+      {
+        "amount": 177221,
+        "asset-id": 16010049,
+        "deleted": false,
+        "is-frozen": false,
+        "opted-in-at-round": 14544619
+      },
+      {
+        "amount": 111,
+        "asset-id": 86121492,
+        "deleted": false,
+        "is-frozen": false,
+        "opted-in-at-round": 21214693
+      }
+    ],
+    "created-assets": [
+      {
+        "created-at-round": 14511456,
+        "deleted": false,
+        "index": 16001041,
+        "params": {
+          "clawback": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "creator": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "decimals": 2,
+          "default-frozen": false,
+          "freeze": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "manager": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "name": "Nigerian Naira",
+          "name-b64": "TmlnZXJpYW4gTmFpcmE=",
+          "reserve": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "total": 1000000,
+          "unit-name": "NGN",
+          "unit-name-b64": "TkdO",
+          "url": "url",
+          "url-b64": "dXJs"
+        }
+      },
+      {
+        "created-at-round": 14544662,
+        "deleted": false,
+        "index": 16010057,
+        "params": {
+          "clawback": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "creator": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "decimals": 10,
+          "default-frozen": false,
+          "freeze": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "manager": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "name": "vscoded",
+          "name-b64": "dnNjb2RlZA==",
+          "reserve": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "total": 17777779,
+          "unit-name": "vscoded",
+          "unit-name-b64": "dnNjb2RlZA==",
+          "url": "url",
+          "url-b64": "dXJs"
+        }
+      },
+      {
+        "created-at-round": 14511476,
+        "deleted": false,
+        "index": 16001043,
+        "params": {
+          "clawback": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "creator": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "decimals": 2,
+          "default-frozen": false,
+          "freeze": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "manager": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "name": "United States Dollar",
+          "name-b64": "VW5pdGVkIFN0YXRlcyBEb2xsYXI=",
+          "reserve": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "total": 1000000,
+          "unit-name": "USD",
+          "unit-name-b64": "VVNE",
+          "url": "url",
+          "url-b64": "dXJs"
+        }
+      },
+      {
+        "created-at-round": 14544742,
+        "deleted": false,
+        "index": 16010077,
+        "params": {
+          "clawback": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "creator": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "decimals": 19,
+          "default-frozen": false,
+          "freeze": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "manager": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "name": "vscoded",
+          "name-b64": "dnNjb2RlZA==",
+          "reserve": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "total": 1000000000000000000,
+          "unit-name": "vscoded",
+          "unit-name-b64": "dnNjb2RlZA==",
+          "url": "url",
+          "url-b64": "dXJs"
+        }
+      },
+      {
+        "created-at-round": 14544756,
+        "deleted": false,
+        "index": 16010085,
+        "params": {
+          "clawback": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "creator": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "decimals": 19,
+          "default-frozen": false,
+          "freeze": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "manager": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "name": "vscoded",
+          "name-b64": "dnNjb2RlZA==",
+          "reserve": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "total": 10000000000000000000,
+          "unit-name": "vscoded",
+          "unit-name-b64": "dnNjb2RlZA==",
+          "url": "url",
+          "url-b64": "dXJs"
+        }
+      },
+      {
+        "created-at-round": 14555598,
+        "deleted": false,
+        "index": 16016011,
+        "params": {
+          "clawback": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "creator": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "decimals": 8,
+          "default-frozen": false,
+          "freeze": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "manager": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "name": "tUniswap",
+          "name-b64": "dFVuaXN3YXA=",
+          "reserve": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "total": 100000000000000000,
+          "unit-name": "tUNI",
+          "unit-name-b64": "dFVOSQ==",
+          "url": "url",
+          "url-b64": "dXJs"
+        }
+      },
+      {
+        "created-at-round": 14544787,
+        "deleted": false,
+        "index": 16010087,
+        "params": {
+          "clawback": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "creator": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "decimals": 19,
+          "default-frozen": false,
+          "freeze": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "manager": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "name": "vscoded",
+          "name-b64": "dnNjb2RlZA==",
+          "reserve": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "total": 18000000000000000000,
+          "unit-name": "vscoded",
+          "unit-name-b64": "dnNjb2RlZA==",
+          "url": "url",
+          "url-b64": "dXJs"
+        }
+      },
+      {
+        "created-at-round": 14544509,
+        "deleted": false,
+        "index": 16010043,
+        "params": {
+          "clawback": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "creator": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "decimals": 5,
+          "default-frozen": false,
+          "freeze": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "manager": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "name": "vscode",
+          "name-b64": "dnNjb2Rl",
+          "reserve": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "total": 1000,
+          "unit-name": "vscode",
+          "unit-name-b64": "dnNjb2Rl",
+          "url": "url",
+          "url-b64": "dXJs"
+        }
+      },
+      {
+        "created-at-round": 14544659,
+        "deleted": false,
+        "index": 16010056,
+        "params": {
+          "clawback": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "creator": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "decimals": 10,
+          "default-frozen": false,
+          "freeze": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "manager": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "name": "vscoded",
+          "name-b64": "dnNjb2RlZA==",
+          "reserve": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "total": 17777779,
+          "unit-name": "vscoded",
+          "unit-name-b64": "dnNjb2RlZA==",
+          "url": "url",
+          "url-b64": "dXJs"
+        }
+      },
+      {
+        "created-at-round": 14544619,
+        "deleted": false,
+        "index": 16010049,
+        "params": {
+          "clawback": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "creator": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "decimals": 5,
+          "default-frozen": false,
+          "freeze": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "manager": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "name": "vscode",
+          "name-b64": "dnNjb2Rl",
+          "reserve": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "total": 177221,
+          "unit-name": "vscode",
+          "unit-name-b64": "dnNjb2Rl",
+          "url": "url",
+          "url-b64": "dXJs"
+        }
+      },
+      {
+        "created-at-round": 14544624,
+        "deleted": false,
+        "index": 16010050,
+        "params": {
+          "clawback": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "creator": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "decimals": 5,
+          "default-frozen": false,
+          "freeze": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "manager": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "name": "vscod",
+          "name-b64": "dnNjb2Q=",
+          "reserve": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "total": 17777779,
+          "unit-name": "vscod",
+          "unit-name-b64": "dnNjb2Q=",
+          "url": "url",
+          "url-b64": "dXJs"
+        }
+      },
+      {
+        "created-at-round": 21214693,
+        "deleted": false,
+        "index": 86121492,
+        "params": {
+          "creator": "VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE",
+          "decimals": 2,
+          "default-frozen": false,
+          "metadata-hash": "qPzwr+xaAQYacTqD0bKn3P0ag+mZ2mmsKhbhntlS5Dc=",
+          "name": "efeefwee",
+          "name-b64": "ZWZlZWZ3ZWU=",
+          "total": 111,
+          "unit-name": "effg",
+          "unit-name-b64": "ZWZmZw==",
+          "url": "aa.com",
+          "url-b64": "YWEuY29t"
+        }
+      }
+    ],
+    "created-at-round": 14511439,
+    "deleted": false,
+    "pending-rewards": 0,
+    "reward-base": 27521,
+    "rewards": 0,
+    "round": 21218287,
+    "sig-type": "sig",
+    "status": "Offline",
+    "total-apps-opted-in": 0,
+    "total-assets-opted-in": 15,
+    "total-created-apps": 0,
+    "total-created-assets": 12
+  },
+  "current-round": 21218287
+}

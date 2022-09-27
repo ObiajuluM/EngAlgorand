@@ -1,0 +1,1 @@
+"""return special transactions e.g asset create, freeze, etc."""

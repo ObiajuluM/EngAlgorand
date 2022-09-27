@@ -1,6 +1,3 @@
-import json
-from decimal import Decimal
-from textwrap import indent
 from typing import Union
 
 from algosdk import account, mnemonic
@@ -455,16 +452,19 @@ class Wallet(AlgodClient, MintEngineClient):
                 transactions_dict['received'] =  received
         return transactions_dict
 
-# wal = Wallet("https://algoindexer.testnet.algoexplorerapi.io/v2",
-# "dU2RRWVPW5aWbcCDyzfET7M3FIpEqpkJ2BZmjTxw",
-# "https://testnet-algorand.api.purestake.io/ps2",
-# 1000, 
-# "https://testnet.algoexplorer.io/address/",
-# "https://testnet.algoexplorer.io/tx/",
-# "https://testnet.algoexplorer.io/asset/")
+wal = Wallet("https://algoindexer.testnet.algoexplorerapi.io/v2",
+"dU2RRWVPW5aWbcCDyzfET7M3FIpEqpkJ2BZmjTxw",
+"https://testnet-algorand.api.purestake.io/ps2",
+1000, 
+"https://testnet.algoexplorer.io/address/",
+"https://testnet.algoexplorer.io/tx/",
+"https://testnet.algoexplorer.io/asset/")
 
-v = MintEngineClient("https://algoindexer.algoexplorerapi.io/v2")
-print(json.dumps(v.account_info("VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE"), indent=2))
+print(wal.generate_algorand_account("account"))
+
+# v = MintEngineClient("https://algoindexer.algoexplorerapi.io/v2")
+# print(json.dumps(v.account_info("VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE"), indent=2))
+
 
 # print(wal.recent_asset_transfer_transactions("VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE", 17063481))
 # print(wal.wallet_holdings("VQIMXAPONHJV3W2HIQACCZWNUC5JIVWIFHRAV35ZH524M6NIZJXXHTLPJE"))
